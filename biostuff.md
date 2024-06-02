@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @a-ronoh
+- 👀 I’m interested in ... digital art, web development, game development, and design.
+- 🌱 I’m currently learning ... java and javascript. 
